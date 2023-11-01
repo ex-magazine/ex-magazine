@@ -24,7 +24,6 @@ Front-end Developer - Seeking knowledge and opportunities
 
 <div align="left">
   <img width="28px" heigth="28px" src="https://skillicons.dev/icons?i=linkedin" />
-  <img width="30px" height="30px" src="./img/port.png/"/>
   <img src="https://img.shields.io/github/followers/ex-magazine?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" />
   <img heigth="46px" width="120px" src="https://visitor-badge.laobi.icu/badge?page_id=renovatt.README" />
 </div>
