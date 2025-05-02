@@ -7,7 +7,7 @@ Front-end Developer - Seeking knowledge and opportunities
 
 * 🌍  I'm based in HCM city, Viet Nam
 * ✉️  You can contact me at [thuy.tranthanh.bd@gmail.com](mailto:thuy.tranthanh.bd@gmail.com)
-* 🚀  I'm currently working on [Personal Projects - Open to Work](https://expressmagazine.net/)
+* 🚀  I'm currently working on [Personal Projects - Open to Work](https://reown-appkit-ether-2jno.vercel.app)
 * 🧠  I'm learning Node.js, Express and Prisma
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  God gave you rock 'n' roll
@@ -16,7 +16,7 @@ Front-end Developer - Seeking knowledge and opportunities
 * 👯 I’m looking to collaborate on Python, Nextjs
 * 🤔 I’m looking for help with Flutter
 * 💬 Ask me about Telegram 0944225212
-* 📫 How to reach me [Personal Food Blog](https://denhatnuong.vn/)
+* 📫 How to reach me [Personal Food Blog](https://reown-appkit-ether-2jno.vercel.app)
 * 😄 Pronouns: He/Him
 </p>
 
